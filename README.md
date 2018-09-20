@@ -1,2 +1,2 @@
 # imOObiliaria
-Real Estate terminal-interaction platform for users and admins
+Real Estate terminal-interaction program for users and admins
